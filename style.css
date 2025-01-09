@@ -1,0 +1,5 @@
+.project-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows items to wrap to the next line if necessary */
+    justify-content: space-around; /* Distributes space around items */
+}
